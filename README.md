@@ -1,8 +1,8 @@
 ## Greetings, my name is Erik Kayser 
  <div>
   <a href="https://github.com/resyakKire">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=resyakKire&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color#7900DB&text_color#00DB54&icon_color#DB921A&bg_color#0B3019"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyakKire&layout=compact&langs_count=7&theme=dark&title_color#7900DB&text_color#00DB54&icon_color#DB921A&bg_color#0B3019"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=resyakKire&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=AB0BDB&text_color=A84BC4&border_color=26FFAA&icon_color=26FFAA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyakKire&layout=compact&langs_count=7&theme=dark&title_color=AB0BDB&text_color=A84BC4&border_color=26FFAA"/>
 </div>
  
 <div style="display: inline_block"><br>
