@@ -10,6 +10,9 @@
   <img align="center" alt="Kire-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kire-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kire-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Kire-deku" src="https://giphy.com/gifs/hulu-agLzP4BYRPcOY">
-<!--   <iframe align="right" alt="Kire-deku" src="https://giphy.com/embed/agLzP4BYRPcOY" width="480" height="468" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hulu-agLzP4BYRPcOY">via GIPHY</a></p> -->
+<!--   <img align="right" alt="Kire-deku" src="https://giphy.com/gifs/hulu-agLzP4BYRPcOY"> -->
+</div>
+ 
+<div>
+ <div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/agLzP4BYRPcOY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hulu-agLzP4BYRPcOY">via GIPHY</a></p>
 </div>
